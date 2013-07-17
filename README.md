@@ -6,10 +6,10 @@ You can see this code in action on the *[Multiplex](http://www.multiplexcomic.co
 
 This code is in the public domain. Do what you want with it; I don't care. I didn't design the icons; I just turned them into SVG. The SVG was optimized with [Peter Collingridge's Javascript SVG Editor](http://petercollingridge.appspot.com/svg-editor) and then edited to add the rollover and mousedown states.
 
-[Web Coder Tools’ Online image to base64 converter](http://webcodertools.com/imagetobase64converter/Create) was used to encode the PNG fallbacks.
-
 [This entry on Stack Overflow](http://stackoverflow.com/questions/15074566/open-source-alternative-to-addthis-addtoany-sharethis-etcfor-social-bookmarking) should help you customize the sharing links as needed.
 
 *UPDATED 7/16/13: I’ve added base64-encoded PNG fallbacks for those of you who care to support janky browsers that don’t like inline SVG.*
+
+*[Web Coder Tools’ Online image to base64 converter](http://webcodertools.com/imagetobase64converter/Create) was used to encode the PNG fallbacks.*
 
 — Gordon McAlpin
