@@ -1,10 +1,8 @@
 ### Inline SVG+CSS Sharing Icons
 
-I made this in order to avoid using the slow and/or poorly optimized sharing buttons from AddThis or ShareThis.
+I made this in order to avoid using the slow and/or poorly optimized sharing buttons from AddThis or ShareThis. It provides sharing buttons for four of the major social websites (Twitter, Facebook, Google+ and StumbleUpon) in inline SVG and CSS — not a lick of Javascript.
 
-It provides sharing buttons for four of the major social websites (Twitter, Facebook, Google+ and StumbleUpon) in inline SVG and CSS — not a lick of Javascript.
-
-Simply cut and paste the CSS into your existing CSS file and the HTML into your web page! This code adds absolutely *zero* HTTP requests to your site, and fewer HTTP requests means a faster website.
+Simply cut and paste the CSS into your existing CSS file and the HTML into your web page! This code adds absolutely *zero* HTTP requests to your site and only weighs 6k. That means a faster website.
 
 You can see this code in action on the *[Multiplex](http://www.multiplexcomic.com)* website. (I’m using different opacity levels for the rollover states, but it’s essentially the same.)
 
