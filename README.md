@@ -15,3 +15,7 @@ This code is in the public domain. Do what you want with it; I don't care. I did
 *[Web Coder Tools’ Online image to base64 converter](http://webcodertools.com/imagetobase64converter/Create) was used to encode the PNG fallbacks.*
 
 — Gordon McAlpin
+
+**UPDATE (8/15/13):** I’ve adjusted the markup slightly to address bugs with older IE versions, specifically removing the XML namespace attribute and separating the closing tag from self-closing SVG elements (per [Stuntbox’s “Making Inline SVG Play Nice in Legacy IE” post](http://stuntbox.com/blog/2013/06/bulletproof-inline-svg/)).
+
+I’ve also moved the opacity to the CSS on all versions, because I found that having multiple instances of the share_icons on one page would conflict with each other (this was probably because of the id tag, but it also cuts down the size of the [non-cacheable] inline code a little more).

@@ -16,16 +16,14 @@
 	text-decoration: none;
 }
 
-/* The styles below are only needed if you use the PNG fallbacks */
-
 #share_icons img:link {
-	opacity: 1;
-	filter:alpha(opacity=100);
+	opacity: 0.5;
+	filter:alpha(opacity=50);
 }
 
 #share_icons img:hover {
-	opacity: 0.5;
-	filter:alpha(opacity=50);
+	opacity: 0.75;
+	filter:alpha(opacity=75);
 }
 
 #share_icons img:active {
